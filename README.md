@@ -1,4 +1,4 @@
 EasyJmsSender
 =============
 
-easy use send jms using OpenMQ
+easy send jms using OpenMQ
